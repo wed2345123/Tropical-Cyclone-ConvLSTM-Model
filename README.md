@@ -6,7 +6,7 @@ This repository contains the source code for a deep learning model designed to s
 ## File Structure
 ```
 .
-└── Model1 - 副本.py                  # Main model script
+└── Model.py                  # Main model script
 ```
 
 ## Getting Started

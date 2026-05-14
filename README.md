@@ -37,7 +37,7 @@ To run the model, you will need to provide your own dataset.
 1.  **Modify the script** to load your data and model.
 2.  **Execute the script:**
     ```bash
-    python "Model1 - 副本.py"
+    python "Model.py"
     ```
 
 ## Contributing

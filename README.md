@@ -32,7 +32,7 @@ We recommend using [Anaconda](https://www.anaconda.com/) to manage your environm
     ```
 
 ## Usage
-To run the model, you will need to provide your own dataset and pre-trained model weights.
+To run the model, you will need to provide your own dataset.
 
 1.  **Modify the script** to load your data and model.
 2.  **Execute the script:**

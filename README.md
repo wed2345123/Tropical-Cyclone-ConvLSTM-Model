@@ -43,7 +43,7 @@ Training notes and recommendations
 - Convolution kernel sizes: avoid excessively large kernels as they may hurt performance.
 - Batch size: limited by GPU memory; reduce `batch_size` if you encounter out-of-memory errors.
 
-We recommend first validating the pipeline with a small dataset and a smaller model to ensure correct data flow and reasonable loss behavior, then scale up experiments.
+We recommend first validating the pipeline with a small dataset to ensure correct data flow and reasonable loss behavior, then scale up experiments.
 
 Outputs and visualization
 - Model outputs are typically predicted fields or track coordinates; `Model.py` includes basic plotting utilities (requires `matplotlib`).
